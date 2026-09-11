@@ -39,4 +39,4 @@ This study presents a comprehensive characterization of soot properties in an av
 
 ---
 
-**DOI/Link:** [View on Elsevier](https://scholar.google.com/citations?user=48732FoAAAAJ&hl=es&authuser=1)
+**DOI/Link:** [View on Elsevier](https://doi.org/10.1016/j.expthermflusci.2023.111092)
