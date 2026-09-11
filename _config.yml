@@ -1,0 +1,24 @@
+# Site configuration
+title: Vincenzo Rosati
+description: Research website featuring my publications and ideas in computer science and related fields
+baseurl: ""
+url: "https://vinzenzorosati.github.io"
+
+# Theme
+theme: minima
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Author information
+author:
+  name: Vincenzo Rosati
+  email: your-email@example.com
+
+# Social links
+social:
+  links:
+    - https://scholar.google.com/citations?user=48732FoAAAAJ&hl=es&authuser=1
+    - https://github.com/VincenzoRosati
