@@ -12,6 +12,9 @@ I am a researcher with a strong interest in computer science and computational t
 - Algorithms and computational complexity
 - Computer science theory
 - Research methodology
+- Sparse Sensing
+- MILD combustion
+- Reduced-Order Models
 
 ### Education & Experience
 For detailed information about my academic background and professional experience, please visit my [Google Scholar Profile](https://scholar.google.com/citations?user=48732FoAAAAJ&hl=es&authuser=1).
